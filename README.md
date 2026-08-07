@@ -171,7 +171,9 @@ Final year B.Tech (EEE) student at AITS, Tirupati with strong foundations in alg
 Passionate about building full-stack web apps and ML-backed products — comfortable with Django/Flask backends, React/Next.js frontends, and data pipelines.
 Goal: join a product-focused engineering team where I can build, ship, and scale features while learning cloud & MLOps best practices.
 </div> </div>
+
 Professional Tech Stack
+
 <div align="center"> <!-- skill icons compact --> <p> <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,bootstrap,tailwind,django,flask,nodejs,express,mysql,mongodb,sqlite,numpy,pandas,scikitlearn,matplotlib,docker,linux,git,github,figma,canva" alt="Tech Icons" /> </p> <!-- Skill badges (shields) --> <p> <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /> </p> </div>
 
 Contribution Graph & Activity
