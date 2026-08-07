@@ -1,14 +1,5 @@
 # Chalavemula_Naveen_Hub
 
-Premium GitHub profile README for developers
-Copilot Chat
-Premium GitHub profile README for developers
-Prompt
-
-Act as a Senior UI/UX Designer, Personal Branding Expert, GitHub README Specialist, and Technical Recruiter.
-
-Create a premium, recruiter-friendly GitHub Profile README that looks modern, visually impressive, ATS-friendly, and stands out from a typical GitHub profile. The README should immediately showcase my skills, projects, certifications, and professionalism within the first few seconds.
-
 Profile Information
 
 - Name: Chalavemula Naveen
@@ -93,12 +84,10 @@ Include a premium Certifications section highlighting:
 - Quantum Fundamentals Program by Amaravati Quantum Valley
 - Embedded Systems + Edge Al Certificate from APSCHE
 - Artificial Intelligence and Machine Learning Certificate from SmartBridge Educational Services Pvt. Ltd.
--  
 
 Featured Projects
 
 Resume Builder Using Django
-
 
 Features:
 
@@ -149,8 +138,6 @@ Buttons:
 - GitHub Repository
 - Live Demo
 
-
-
 Include:
 
 - Artificial Intelligence
@@ -164,8 +151,6 @@ Include:
 - Next.js
 
 10. GitHub Achievements
-
-11. Trophy Section
 
 12. Activity Graph
 
@@ -282,8 +267,3 @@ Education: B.Tech (EEE), Final Year — available for internships / entry-level 
 Contact: chalavemulenaveen1226@gmail.com | LinkedIn: https://www.linkedin.com/in/naveen-9-a37055298
 Public repos demonstrate full-stack projects, ML prototypes, and data-driven applications. Detailed CV and project links available on request.
 <footer align="center" style="margin-top:18px; padding-top:8px; color:#9ca7b6;"> <hr style="border:0; height:1px; background:rgba(255,255,255,0.04); width:100%; max-width:980px;" /> <p style="font-size:0.95rem; margin:10px 0 2px;">Designed & Developed by Chalavemula Naveen</p> <p style="font-size:0.85rem; margin:0 0 12px;">© <span id="year">2026</span> • <a href="https://github.com/chalavemulanaveen-hub" target="_blank">chalavemulanaveen-hub</a></p> </footer> <!-- Optional small script to keep the year updated for local viewing (ignored by GitHub) --> <script>try{document.getElementById('year').innerText=new Date().getFullYear()}catch(e){}</script>
-Notes:
-
-Replace demo/live links with real deployment URLs when available.
-The contribution-snake image and some analytics cards rely on GitHub Actions or third-party services to render; follow those projects' README instructions to enable them.
-If you want a single-file downloadable resume link, add your PDF file to the repository and update the "Portfolio-Projects" button to point to it.
