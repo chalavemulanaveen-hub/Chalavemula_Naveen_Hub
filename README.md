@@ -90,14 +90,15 @@ Include a premium Certifications section highlighting:
 - Oracle Certified Foundations Associate – Agentic AI
 - SmartBridge Artificial Intelligence & Machine Learning Virtual Internship
 - NPTEL Elite Certification
-- Oracle University Certification
-- Any additional professional certifications with attractive badges
+- Quantum Fundamentals Program by Amaravati Quantum Valley
+- Embedded Systems + Edge Al Certificate from APSCHE
+- Artificial Intelligence and Machine Learning Certificate from SmartBridge Educational Services Pvt. Ltd.
+-  
 
 Featured Projects
 
-Create premium project cards for these repositories.
-
 Resume Builder Using Django
+
 
 Features:
 
@@ -148,62 +149,7 @@ Buttons:
 - GitHub Repository
 - Live Demo
 
-Design Requirements
 
-Create a premium modern README with:
-
-- Dark theme compatible
-- Elegant spacing
-- Premium typography
-- Responsive Markdown
-- Professional color palette
-- Glassmorphism-inspired sections using HTML where appropriate
-- Center alignment where needed
-- Recruiter-friendly appearance
-- Clean code structure
-- Mobile responsive
-- Beautiful badges
-- Professional icons
-- Minimal emojis
-- Animated GIF placeholders where suitable
-- Modern section dividers
-- High visual appeal
-
-Include These Sections
-
-1. Premium Hero Banner
-   
-   - Name
-   - Animated typing text
-   - Professional tagline
-   - Short introduction
-   - Call-to-action buttons
-
-2. About Me
-
-3. Professional Tech Stack
-   Use:
-   
-   - skillicons.dev
-   - shields.io
-
-4. GitHub Analytics
-   Include:
-   
-   - GitHub Readme Stats
-   - GitHub Streak Stats
-   - Top Languages
-   - Profile Summary Cards
-
-5. GitHub Contribution Graph
-
-6. Contribution Snake Animation Placeholder
-
-7. Featured Projects
-
-8. Certifications
-
-9. Currently Learning
 
 Include:
 
@@ -258,13 +204,6 @@ Use
 - Responsive Markdown
 - HTML where necessary
 
-Style
-
-The final README should look like a premium GitHub profile belonging to a top Software Engineer at a leading tech company. It should be visually stunning, recruiter-friendly, modern, clean, professional, and memorable while remaining lightweight and fully compatible with GitHub Markdown.
-
-Generate ONLY the complete README.md in Markdown with all links properly configured using my GitHub username (chalavemulanaveen-hub). Use placeholders only for my LinkedIn profile URL, portfolio URL, and professional email if they are not available.
-<!-- README.md — Premium, recruiter-friendly GitHub Profile for Chalavemula Naveen — chalavemulanaveen-hub Designed to be dark-theme compatible, modern, and ATS-friendly. --> <div align="center"> <!-- HERO / GLASSMORPHISM --> <div style="background: linear-gradient(135deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); border-radius:18px; padding:28px; max-width:980px; backdrop-filter:blur(6px); box-shadow: 0 6px 30px rgba(0,0,0,0.5);"> <h1 style="margin:0; font-size:1.9rem; letter-spacing:0.3px">Chalavemula Naveen</h1> <p style="margin:6px 0 14px; font-size:1rem; color:#9aa3b2;"> Full Stack Web Developer • Python Developer • AI & Machine Learning Enthusiast </p> <!-- Animated typing (SVG) --> <p> <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=ffffff&width=760&height=40&lines=Building+modern+web+apps+with+Python+%26+React;AI+%26+ML+for+real-world+problems;Open+to+Internships+%7C+Fresher+roles" /> </p> <p style="max-width:760px; margin:auto; color:#bfc9d6; line-height:1.45"> I’m a final-year B.Tech (EEE) student at Annamacharya Institute of Technology and Sciences (AITS), Tirupati. I build practical, production-ready web applications and ML prototypes using Python, Django, Flask, JavaScript and React. Actively looking for Software Developer / Full Stack / Python / AI-ML roles — I write clean code, ship quickly, and learn continuously. </p> <!-- CTAs --> <p style="margin-top:14px"> <a href="https://github.com/chalavemulanaveen-hub" target="_blank"><img src="https://img.shields.io/badge/-GitHub-101010?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/naveen-9-a37055298" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a> <a href="mailto:chalavemulenaveen1226@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a> <a href="https://github.com/chalavemulanaveen-hub?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Projects-6C5CE7?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="Projects" /></a> </p> </div> <!-- Quick Stats --> <p style="margin-top:14px; display:flex; justify-content:center; gap:10px; flex-wrap:wrap;"> <img src="https://img.shields.io/github/followers/chalavemulanaveen-hub?label=Followers&style=flat-square&logo=github" alt="Followers" /> <img src="https://komarev.com/ghpvc/?username=chalavemulanaveen-hub&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/stars/chalavemulanaveen-hub?style=flat-square&logo=github" alt="Stars" /> <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-2A9D8F?style=flat-square" alt="Location" /> <img src="https://img.shields.io/badge/Education-B.Tech%20(EEE)-264653?style=flat-square" alt="Education" /> </p> </div>
-<!-- ABOUT -->
 About Me
 <div align="center"> <div style="max-width:980px; background:rgba(255,255,255,0.01); border-radius:14px; padding:18px; color:#c9d2df;">
 Final year B.Tech (EEE) student at AITS, Tirupati with strong foundations in algorithms, data structures, and software engineering.
