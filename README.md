@@ -155,12 +155,7 @@ Include buttons for:
 - GitHub
 - LinkedIn
 - Gmail
-
-15. Profile Views Counter
-
-16. Followers & Stars Badges
-
-17. Professional Footer
+- 
 
 "Designed & Developed by Chalavemula Naveen"
 
