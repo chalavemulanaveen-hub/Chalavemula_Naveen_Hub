@@ -150,14 +150,6 @@ Include:
 - React
 - Next.js
 
-10. GitHub Achievements
-
-12. Activity Graph
-
-13. Developer Quote
-
-14. Connect With Me
-
 Include buttons for:
 
 - GitHub
@@ -170,24 +162,8 @@ Include buttons for:
 
 17. Professional Footer
 
-Include a modern footer with:
-
 "Designed & Developed by Chalavemula Naveen"
 
-Use
-
-- shields.io badges
-- skillicons.dev
-- GitHub Readme Stats
-- GitHub Streak Stats
-- GitHub Activity Graph
-- GitHub Profile Trophy
-- Contribution Snake
-- Profile Views Counter
-- Social Badges
-- Animated Typing SVG
-- Responsive Markdown
-- HTML where necessary
 
 About Me
 <div align="center"> <div style="max-width:980px; background:rgba(255,255,255,0.01); border-radius:14px; padding:18px; color:#c9d2df;">
@@ -266,4 +242,4 @@ Role targets: Software Developer, Full Stack Developer, Python Developer, AI/ML 
 Education: B.Tech (EEE), Final Year — available for internships / entry-level roles.
 Contact: chalavemulenaveen1226@gmail.com | LinkedIn: https://www.linkedin.com/in/naveen-9-a37055298
 Public repos demonstrate full-stack projects, ML prototypes, and data-driven applications. Detailed CV and project links available on request.
-<footer align="center" style="margin-top:18px; padding-top:8px; color:#9ca7b6;"> <hr style="border:0; height:1px; background:rgba(255,255,255,0.04); width:100%; max-width:980px;" /> <p style="font-size:0.95rem; margin:10px 0 2px;">Designed & Developed by Chalavemula Naveen</p> <p style="font-size:0.85rem; margin:0 0 12px;">© <span id="year">2026</span> • <a href="https://github.com/chalavemulanaveen-hub" target="_blank">chalavemulanaveen-hub</a></p> </footer> <!-- Optional small script to keep the year updated for local viewing (ignored by GitHub) --> <script>try{document.getElementById('year').innerText=new Date().getFullYear()}catch(e){}</script>
+<footer align="center" style="margin-top:18px; padding-top:8px; color:#9ca7b6;"> <hr style="border:0; height:1px; background:rgba(255,255,255,0.04); width:100%; max-width:980px;" /> <p style="font-size:0.95rem; margin:10px 0 2px;">Designed & Developed by Chalavemula Naveen</p> <p style="font-size:0.85rem; margin:0 0 12px;">© <span id="year">2026</span> • <a href="https://github.com/chalavemulanaveen-hub" target="_blank">chalavemulanaveen-hub</a></p> </footer> <!-- Optional small script to keep the year updated for local viewing (ignored by GitHub) -->
