@@ -234,10 +234,6 @@ Currently Learning
 <div align="center"> <p style="max-width:980px; color:#c7d0df;">Focused on practical skills that recruiters value — hands-on & project-driven learning.</p> <p> <img src="https://img.shields.io/badge/Artificial%20Intelligence-7B61FF?style=flat&logo=artstation" alt="AI" /> <img src="https://img.shields.io/badge/Generative%20AI-6EE7B7?style=flat" alt="GenAI" /> <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat&logo=scikit-learn&logoColor=white" alt="ML" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/DevOps-00BFA5?style=flat" alt="DevOps" /> <img src="https://img.shields.io/badge/System%20Design-7C3AED?style=flat" alt="System Design" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /> </p> </div>
 
 
-GitHub Achievements & Activity
-
-
-<div align="center"> <p> <img src="https://github-profile-trophy.vercel.app/?username=chalavemulanaveen-hub&theme=darkhub" alt="GitHub Trophies" /> </p> <p style="max-width:980px; color:#bfc9d6;"> Achievements reflect consistency and community contributions. I continually contribute to personal projects and collaborate to build practical software. </p> </div>
 Developer Quote
 <div align="center" style="margin:18px 0;"> <blockquote style="max-width:820px; color:#cfe3ff; background:rgba(255,255,255,0.01); padding:14px; border-radius:10px;"> "I write clear, maintainable code and build features that solve user problems — shipping learning as production-ready software." — Chalavemula Naveen </blockquote> </div>
 
